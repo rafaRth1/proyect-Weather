@@ -1,0 +1,9 @@
+/* Backgroudn Search Container*/
+.background {
+   background-image: url('./Assets/Cloud-background.png');
+}
+
+.result-container {
+   max-width: 800px;
+   margin: 0 auto;
+}
